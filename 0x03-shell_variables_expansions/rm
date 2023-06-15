@@ -1,0 +1,2 @@
+!#/bin/bash
+echo "Alias '$alias_name' has been created with the value '$alias_value'."
